@@ -305,26 +305,7 @@ Generates optimized files in `dist/` directory ready for deployment.
 - Azure Static Web Apps
 - Docker containers
 
-## 📞 Support & Maintenance
 
-### Regular Maintenance Tasks
-- Monitor database performance
-- Review incident reports weekly
-- Archive old records monthly
-- Update driver license expiry alerts
-- Verify maintenance schedules
-
-### Database Backups
-- Daily automated backups via Supabase
-- Manual export available from Supabase dashboard
-- Point-in-time recovery enabled
-
-## 📚 Additional Resources
-
-- **Supabase Documentation**: https://supabase.com/docs
-- **React Documentation**: https://react.dev
-- **Tailwind CSS**: https://tailwindcss.com
-- **TypeScript**: https://www.typescriptlang.org
 - **Vite**: https://vitejs.dev
 
 ## 📄 License
